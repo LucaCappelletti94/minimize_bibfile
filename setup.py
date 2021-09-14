@@ -41,7 +41,6 @@ setup(
     author="Luca Cappelletti",
     author_email="cappelletti.luca94@gmail.com",
     license='MIT',
-    include_package_data=True,
     classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
